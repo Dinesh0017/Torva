@@ -1,0 +1,49 @@
+com.example.torva.app-jetified-credentials-1.2.0-rc01-0 C:\Users\dines\.gradle\caches\8.10.2\transforms\062102e8bb4439f13debc0950f1bbcc7\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.torva.app-jetified-core-common-2.0.3-1 C:\Users\dines\.gradle\caches\8.10.2\transforms\0d5fd732b1e2f44e94c26b02ced1b85e\transformed\jetified-core-common-2.0.3\res
+com.example.torva.app-jetified-startup-runtime-1.1.1-2 C:\Users\dines\.gradle\caches\8.10.2\transforms\1e2509ed64a44f204dee338e026bb6bf\transformed\jetified-startup-runtime-1.1.1\res
+com.example.torva.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-3 C:\Users\dines\.gradle\caches\8.10.2\transforms\2eebec5c21745e019e10f6c7c219f78a\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.torva.app-jetified-play-services-auth-20.7.0-4 C:\Users\dines\.gradle\caches\8.10.2\transforms\335230ef5d66f0544730d0e421075923\transformed\jetified-play-services-auth-20.7.0\res
+com.example.torva.app-jetified-play-services-base-18.3.0-5 C:\Users\dines\.gradle\caches\8.10.2\transforms\4c9eddeaca61e2f81f679e110e071385\transformed\jetified-play-services-base-18.3.0\res
+com.example.torva.app-jetified-lifecycle-livedata-core-ktx-2.7.0-6 C:\Users\dines\.gradle\caches\8.10.2\transforms\5c899842a0be151f5ce69390f597157b\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.torva.app-jetified-tracing-1.2.0-7 C:\Users\dines\.gradle\caches\8.10.2\transforms\5e0dd87f5fe748be917c4a86d7798f47\transformed\jetified-tracing-1.2.0\res
+com.example.torva.app-core-runtime-2.2.0-8 C:\Users\dines\.gradle\caches\8.10.2\transforms\68d58093b473055f53a767c0fa63fe13\transformed\core-runtime-2.2.0\res
+com.example.torva.app-jetified-credentials-play-services-auth-1.2.0-rc01-9 C:\Users\dines\.gradle\caches\8.10.2\transforms\70f095dfd6902e9ec26c49cfbfd46ed7\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.torva.app-jetified-firebase-common-21.0.0-10 C:\Users\dines\.gradle\caches\8.10.2\transforms\7cfdff7233038f678e555d8550ecc17e\transformed\jetified-firebase-common-21.0.0\res
+com.example.torva.app-lifecycle-livedata-core-2.7.0-11 C:\Users\dines\.gradle\caches\8.10.2\transforms\8a1d7af30e2582415054da56261e6227\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.torva.app-core-1.16.0-12 C:\Users\dines\.gradle\caches\8.10.2\transforms\8ed61070ca6ad38d62f66e00a9411a09\transformed\core-1.16.0\res
+com.example.torva.app-jetified-lifecycle-process-2.7.0-13 C:\Users\dines\.gradle\caches\8.10.2\transforms\8f4ea1cefc1be43f5907461ee1a7c756\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.torva.app-jetified-annotation-experimental-1.4.1-14 C:\Users\dines\.gradle\caches\8.10.2\transforms\948c02239151488b64cc76923e6d7aa3\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.torva.app-lifecycle-runtime-2.7.0-15 C:\Users\dines\.gradle\caches\8.10.2\transforms\97b35c213fcc2a3591bcdb36c436def5\transformed\lifecycle-runtime-2.7.0\res
+com.example.torva.app-jetified-savedstate-1.2.1-16 C:\Users\dines\.gradle\caches\8.10.2\transforms\9d1c13e038485d6dd79e1b82799bc34f\transformed\jetified-savedstate-1.2.1\res
+com.example.torva.app-fragment-1.7.1-17 C:\Users\dines\.gradle\caches\8.10.2\transforms\a5ff4bc9f3fea1e423a680470a873bec\transformed\fragment-1.7.1\res
+com.example.torva.app-lifecycle-viewmodel-2.7.0-18 C:\Users\dines\.gradle\caches\8.10.2\transforms\a652d450c298f814f101661a96517715\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.torva.app-browser-1.8.0-19 C:\Users\dines\.gradle\caches\8.10.2\transforms\afe100471c299620a0f43c8e87790eed\transformed\browser-1.8.0\res
+com.example.torva.app-jetified-core-ktx-1.16.0-20 C:\Users\dines\.gradle\caches\8.10.2\transforms\b2b6a15c770301e326754f016f9b7ebb\transformed\jetified-core-ktx-1.16.0\res
+com.example.torva.app-jetified-window-java-1.2.0-21 C:\Users\dines\.gradle\caches\8.10.2\transforms\b38bbbb272831202e857adfbbf7846ab\transformed\jetified-window-java-1.2.0\res
+com.example.torva.app-jetified-play-services-basement-18.4.0-22 C:\Users\dines\.gradle\caches\8.10.2\transforms\bf07274481b29bed76df2d534c41c476\transformed\jetified-play-services-basement-18.4.0\res
+com.example.torva.app-jetified-play-services-maps-18.2.0-23 C:\Users\dines\.gradle\caches\8.10.2\transforms\ce70a6d6481ac1dc0ffd04d68cf69592\transformed\jetified-play-services-maps-18.2.0\res
+com.example.torva.app-lifecycle-livedata-2.7.0-24 C:\Users\dines\.gradle\caches\8.10.2\transforms\d28771b0f3584d702cb94f1ba8ad977c\transformed\lifecycle-livedata-2.7.0\res
+com.example.torva.app-jetified-core-viewtree-1.0.0-25 C:\Users\dines\.gradle\caches\8.10.2\transforms\dda9700615f01a6046fd4b84a0c7b4c5\transformed\jetified-core-viewtree-1.0.0\res
+com.example.torva.app-jetified-profileinstaller-1.3.1-26 C:\Users\dines\.gradle\caches\8.10.2\transforms\e08c186267b38a4cb9d8bf93a90d0e79\transformed\jetified-profileinstaller-1.3.1\res
+com.example.torva.app-jetified-core-1.0.0-27 C:\Users\dines\.gradle\caches\8.10.2\transforms\e43cf5b47c15cbb402f37e53863ff86d\transformed\jetified-core-1.0.0\res
+com.example.torva.app-jetified-window-1.2.0-28 C:\Users\dines\.gradle\caches\8.10.2\transforms\f885d95f0253ef8fbad06018ab8602e1\transformed\jetified-window-1.2.0\res
+com.example.torva.app-jetified-android-maps-utils-3.6.0-29 C:\Users\dines\.gradle\caches\8.10.2\transforms\fb45760c8f8c79037dc12fb60bf78903\transformed\jetified-android-maps-utils-3.6.0\res
+com.example.torva.app-jetified-activity-1.9.3-30 C:\Users\dines\.gradle\caches\8.10.2\transforms\ffc4887344def1b9cb004a91671d4c51\transformed\jetified-activity-1.9.3\res
+com.example.torva.app-debug-31 D:\3rd year 1st sem\MAD\Projects\Torva\android\app\src\debug\res
+com.example.torva.app-main-32 D:\3rd year 1st sem\MAD\Projects\Torva\android\app\src\main\res
+com.example.torva.app-pngs-33 D:\3rd year 1st sem\MAD\Projects\Torva\build\app\generated\res\pngs\debug
+com.example.torva.app-res-34 D:\3rd year 1st sem\MAD\Projects\Torva\build\app\generated\res\processDebugGoogleServices
+com.example.torva.app-resValues-35 D:\3rd year 1st sem\MAD\Projects\Torva\build\app\generated\res\resValues\debug
+com.example.torva.app-packageDebugResources-36 D:\3rd year 1st sem\MAD\Projects\Torva\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.torva.app-packageDebugResources-37 D:\3rd year 1st sem\MAD\Projects\Torva\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.torva.app-debug-38 D:\3rd year 1st sem\MAD\Projects\Torva\build\app\intermediates\merged_res\debug\mergeDebugResources
+com.example.torva.app-debug-39 D:\3rd year 1st sem\MAD\Projects\Torva\build\cloud_firestore\intermediates\packaged_res\debug\packageDebugResources
+com.example.torva.app-debug-40 D:\3rd year 1st sem\MAD\Projects\Torva\build\firebase_auth\intermediates\packaged_res\debug\packageDebugResources
+com.example.torva.app-debug-41 D:\3rd year 1st sem\MAD\Projects\Torva\build\firebase_core\intermediates\packaged_res\debug\packageDebugResources
+com.example.torva.app-debug-42 D:\3rd year 1st sem\MAD\Projects\Torva\build\firebase_storage\intermediates\packaged_res\debug\packageDebugResources
+com.example.torva.app-debug-43 D:\3rd year 1st sem\MAD\Projects\Torva\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug\packageDebugResources
+com.example.torva.app-debug-44 D:\3rd year 1st sem\MAD\Projects\Torva\build\geocoding_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.torva.app-debug-45 D:\3rd year 1st sem\MAD\Projects\Torva\build\geolocator_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.torva.app-debug-46 D:\3rd year 1st sem\MAD\Projects\Torva\build\google_maps_flutter_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.torva.app-debug-47 D:\3rd year 1st sem\MAD\Projects\Torva\build\image_picker_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.torva.app-debug-48 D:\3rd year 1st sem\MAD\Projects\Torva\build\url_launcher_android\intermediates\packaged_res\debug\packageDebugResources

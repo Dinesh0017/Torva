@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.torva.app-mergeDebugResources-36:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dines\\.gradle\\caches\\8.10.2\\transforms\\8ed61070ca6ad38d62f66e00a9411a09\\transformed\\core-1.16.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,353,453,563,673,793",
+                        "endColumns": "96,101,98,99,109,109,119,100",
+                        "endOffsets": "147,249,348,448,558,668,788,889"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "286,383,485,584,684,794,904,1456",
+                        "endColumns": "96,101,98,99,109,109,119,100",
+                        "endOffsets": "378,480,579,679,789,899,1019,1552"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dines\\.gradle\\caches\\8.10.2\\transforms\\afe100471c299620a0f43c8e87790eed\\transformed\\browser-1.8.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1024,1139,1238,1350",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "1134,1233,1345,1451"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dines\\.gradle\\caches\\8.10.2\\transforms\\062102e8bb4439f13debc0950f1bbcc7\\transformed\\jetified-credentials-1.2.0-rc01\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,164",
+                        "endColumns": "108,121",
+                        "endOffsets": "159,281"
+                    }
+                }
+            ]
+        }
+    ]
+}
